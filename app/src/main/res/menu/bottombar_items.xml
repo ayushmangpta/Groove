@@ -3,9 +3,9 @@
     <item android:id="@+id/home"
         android:title=""
         android:icon="@drawable/home"/>
-    <item android:id="@+id/search"
+    <item android:id="@+id/baseline_add_24"
         android:title=""
-        android:icon="@drawable/search"/>
+        android:icon="@drawable/baseline_add_24"/>
     <item android:id="@+id/profile"
         android:title=""
         android:icon="@drawable/profile"/>
