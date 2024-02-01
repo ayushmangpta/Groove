@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                     FragmentTransaction ft = fm.beginTransaction();
                     ft.add(R.id.container, new home());
                     ft.commit();
-                    
+
                 }
                 else{
                     FragmentManager fm = getSupportFragmentManager();
